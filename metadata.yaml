@@ -1,0 +1,30 @@
+_repo: The-Heritage-of-the-Hills_34507
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hankins, Arthur Preston
+    alias: Hankins, Arthur P.
+    birthdate: 1880
+    deathdate: 1932
+    gutenberg_agent_id: '8490'
+    url: http://www.gutenberg.org/2009/agents/8490
+description: ''
+gutenberg_issued: '2010-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Fiction'
+- !lcsh 'Mines and mineral resources -- Fiction'
+- !lcsh 'Sierra Nevada (Calif. and Nev.) -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: The Heritage of the Hills
+url: http://www.gutenberg.org/ebooks/34507
